@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "./HeaderImg/Violet evergarden.png",
+    "name": "Violet Evergarden",
+    "discription": "The story revolves around Auto Memory Dolls (自動手記人形, Jidō Shuki Ningyō). There was a machine invented as a prototype for the typewriter. It was originally made by Professor Orlando, the authority on letterpress printing and a researcher of mechanical dolls. His wife, Molly, was a novelist, but she became blind and could not write anymore. Dr Orlando then created the first Auto-Memories Doll for her, meant to register everything said by a human voice. In the present time, the term refers to the industry of writing for others. The story follows Violet Evergarden's journey of reintegrating back into society after the war is over as she is no longer a soldier, and her search for her life's purpose in order to understand the last words her mentor and guardian, Major Gilbert, had said to her: 'I Love You'"
+  },
+  {
+    "id": 2,
+    "img": "./HeaderImg/house Of Dragon.jpg",
+    "name": "House Of The Dragon",
+    "discription": "House of the Dragon is an American fantasy drama television series. A prequel to Game of Thrones (2011-2019), it is the second show in the franchise, created by George R. R. Martin and Ryan Condal for HBO. Both series are based on the A Song of Ice and Fire novels by Martin. Condal and Miguel Sapochnik are the showrunners. Based on parts of the novel Fire & Blood, the series is set about 200 years before the events of Game of Thrones, and 172 years before the birth of Daenerys Targaryen. It portrays the beginning of the end of House Targaryen, the events leading up to and covering the Targaryen war of succession, known as the Dance of the Dragons"
+  },
+  {
+    "id": 3,
+    "img": "./HeaderImg/attack on titans.png",
+    "name": "Attack On Titans",
+    "discription": "The plot of Attack on Titan centers on a civilization inside three walls. According to the knowledge propagated locally, it is the last location where humans still live. Its inhabitants have been led to believe that over one hundred years ago, humanity was driven to the brink of extinction after the emergence of humanoid giants called Titans, who attack and eat humans on sight. The last remnants of humanity retreated behind three concentric walls and enjoyed nearly a century of peace. Within the walls, the thought of venturing outside is strongly frowned upon and discouraged. To combat Titans, the country's military employs Vertical Maneuvering Equipment, a set of waist-mounted grappling hooks and gas-powered propulsion enabling immense mobility in three dimensions. As the series progresses, the true history of the Titans and existence of civilization outside the walls is revealed"
+  }
+]

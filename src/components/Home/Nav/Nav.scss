@@ -1,0 +1,12 @@
+@media (max-width: 640px) {
+  .nav {
+    [data-testid] {
+      position: relative;
+      left: 60%;
+    }
+    .relative.rounded {
+      width: 25px;
+      height: 25px;
+    }
+  }
+}

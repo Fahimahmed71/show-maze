@@ -1,0 +1,10 @@
+.pagination a {
+  padding: 10px;
+  border-radius: 10px;
+}
+.pagination a:hover {
+  background: #c543d8;
+}
+.pagination .active a {
+  background: #c543d8;
+}/*# sourceMappingURL=People.css.map */

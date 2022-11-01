@@ -1,0 +1,13 @@
+.pagination {
+  a {
+    padding: 10px;
+    border-radius: 10px;
+
+    &:hover {
+      background: #c543d8;
+    }
+  }
+  .active a {
+    background: #c543d8;
+  }
+}

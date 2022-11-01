@@ -1,0 +1,12 @@
+::-moz-selection {
+  background: rgba(217, 70, 233, 0.5411764706);
+}
+
+::selection {
+  background: rgba(217, 70, 233, 0.5411764706);
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  background: #000f1f;
+}/*# sourceMappingURL=App.css.map */

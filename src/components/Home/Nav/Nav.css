@@ -1,0 +1,10 @@
+@media (max-width: 640px) {
+  .nav [data-testid] {
+    position: relative;
+    left: 60%;
+  }
+  .nav .relative.rounded {
+    width: 25px;
+    height: 25px;
+  }
+}/*# sourceMappingURL=Nav.css.map */
